@@ -7,7 +7,6 @@ Once the game starts, a board full of empty tiles will appear (shown below).
 Click on a tile to uncover it. Left-click on a tile to flag it as a mine.
 <img width="574" alt="Screen Shot 2024-01-03 at 2 40 38 PM" src="https://github.com/prammey/minesweeper-game/assets/126892844/691c646c-d46a-4760-84dc-6c4ba2bb99ed">
 
-
 If a mine is clicked on, the following message will appear...
 <img width="222" alt="Screen Shot 2024-01-03 at 2 40 13 PM" src="https://github.com/prammey/minesweeper-game/assets/126892844/f8b6c4db-47be-45b8-a01e-9bcd80775fab">
 
