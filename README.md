@@ -1,4 +1,4 @@
-# minesweeper-game
+# minesweeper-game 
 Play Minesweeper, a logic puzzle video game!
 
 Once the game starts, a board full of empty tiles will appear (shown below).
